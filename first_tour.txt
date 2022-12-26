@@ -1,0 +1,8 @@
+80
+Ivanov Dmitry 90
+Petrov Kirill 74
+Sidorov Ivan 80
+Vasiliev Maxim 79
+Philipov Anton 93
+Maximov Nikita 75
+Nikitin Arseniy 88
